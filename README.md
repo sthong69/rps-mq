@@ -15,7 +15,7 @@ NB: If you choose to run it on a different port number, you will need to make su
 Afterwards, clone the repository:
 
 ```bash
-git clone https://gitlab-df.imt-atlantique.fr/frappe/front.git
+git clone https://github.com/sthong69/rps-mq
 cd rps-mq
 ```
 
